@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asbjornrasen
-- 👀 I’m interested in Swift,Python and Nutrition
+- 👀 I’m interested in Python and Linux
 
 
 <!---
