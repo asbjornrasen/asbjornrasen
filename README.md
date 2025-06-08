@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @asbjornrasen
-- 👀 I’m interested in Python and Linux
-
+Python, Linux, and information security.
+Creator of CryptoProtos — a tool to enhance cryptographic data protection
 
 <!---
 asbjornrasen/asbjornrasen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
